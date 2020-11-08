@@ -1,7 +1,7 @@
 # World_Weather_Analysis
-A project to analyze weather patterns based on longitudinal lines
+A project to analyze weather patterns based on longitudinal lines and provide customers with a travel itinerary based on their preference inputs. 
 ## Objectives
-How might we provide real-time suggestions for our client's ideal hotels? Your first task was to define what you meant by "ideal." So, over the course of the conversation, you narrowed that to hotels that were (1) within a given range of latitude and longitude and that (2) provided the right kind of weather for the client.
+The beta customer will select four cities. We will create a travel itinerary and travel route based on customer preferences using Google maps API.
 ## Project Outline
 Task: Collect and analyze weather data across cities worldwide.
 Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
